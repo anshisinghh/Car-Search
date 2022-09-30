@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=UWfbDvBuqMw
 
 ## How we built it
 
-We built this program using the vehicle listings API by AutoDev, https://www.auto.dev/listings/getting-started. We used python to store and display the information from the API. We used repl.it, https://replit.com/@AnshiSingh/Car-Search-Python#main.py, to build our program.
+We built this program using the vehicle listings API by AutoDev, https://www.auto.dev/listings/getting-started. We used python to store and display the information from the API. We used repl.it, https://replit.com/@AnshiSingh/Car-Search-Python, to build our program.
 
 ## Challenges we ran into
 
