@@ -35,6 +35,4 @@ Our vision is to create a website that will seamlessly merge our program into a 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented functions:
-
-<img src='https://www.youtube.com/watch?v=UWfbDvBuqMw' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+https://www.youtube.com/watch?v=UWfbDvBuqMw
