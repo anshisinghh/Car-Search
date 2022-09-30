@@ -1,6 +1,7 @@
 # Car-Search
 
-**Car Search** App was created with Aashi Singh, https://www.github.com/aashisinghh
+**Car Search** App was created with Aashi Singh, https://www.github.com/aashisinghh.
+
 Time spent: **12** hours spent in total
 
 ## Inspiration
