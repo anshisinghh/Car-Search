@@ -1,6 +1,6 @@
 # Car-Search
 
-**Car Search** App was created with [Aashi Singh](https://www.github.com/aashisinghh), for Venus Hacks Hackathon at UCI in May of 2022.
+**Car Search** Program was created with [Aashi Singh](https://www.github.com/aashisinghh), for Venus Hacks Hackathon at UCI in May of 2022.
 
 Time spent: **12** hours spent in total
 
