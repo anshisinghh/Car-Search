@@ -2,8 +2,6 @@
 
 **Car Search** Program was created with [Aashi Singh](https://www.github.com/aashisinghh), for Venus Hacks Hackathon at UCI in May of 2022.
 
-Time spent: **12** hours spent in total
-
 ## Inspiration
 
 Ever been overwhelmed browsing through multiple sites looking for new or used cars. We decided to make this process easier. All you have to do is put in your criteria and find the best match for the car you are looking for.
