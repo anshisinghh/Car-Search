@@ -1,6 +1,6 @@
 # Car-Search
 
-**Car Search** App was created with Aashi Singh, https://www.github.com/aashisinghh.
+**Car Search** App was created with Aashi Singh, https://www.github.com/aashisinghh, for Venus Hacks Hackathon at UCI in May of 2022.
 
 Time spent: **12** hours spent in total
 
@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=UWfbDvBuqMw
 
 ## How we built it
 
-We built this program using the vehicle listings API by AutoDev, https://www.auto.dev/listings/getting-started. We used python to store and display the information from the API. We used repl.it to build our program.
+We built this program using the vehicle listings API by AutoDev, https://www.auto.dev/listings/getting-started. We used python to store and display the information from the API. We used repl.it, https://replit.com/@AnshiSingh/Car-Search-Python#main.py, to build our program.
 
 ## Challenges we ran into
 
