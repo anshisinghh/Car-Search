@@ -15,6 +15,7 @@ Given your requirements for any or all of the following: condition, minimum year
 ## Video Walkthrough
 
 Here's a walkthrough of implemented functions:
+
 https://www.youtube.com/watch?v=UWfbDvBuqMw
 
 https://replit.com/@AnshiSingh/Car-Search-Python
