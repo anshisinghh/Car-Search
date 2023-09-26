@@ -22,7 +22,3 @@ https://replit.com/@AnshiSingh/Car-Search-Python
 
 We built this program using the vehicle listings API by [AutoDev](https://www.auto.dev/listings/getting-started). We used python to store and display the information from the API. We used repl.it, to build our program.
 
-## What's next for **Car Search**
-
-Our vision is to create a website that will seamlessly merge our program into a web browser, using HTML, CSS, and JavaScript, so that it creates an even friendlier user interface.
-
